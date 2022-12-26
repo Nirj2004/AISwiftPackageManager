@@ -3,16 +3,16 @@
 ## Installation 
 
 
-### Manual 
+### Manual 🤓
  Copy Source files from this repository into your own project
 
-### Swift Package Manager (Preferred)
+### Swift Package Manager (Preferred)📱
  You can use this Swift Package Manager to integrate the library by adding the following dependency in your project's 'Package.swift' file or by adding directly within XCode
  
 `.Package(url: "https://github.com/Nirj2004/AISWIFTPACKAGEMANAGER.git", majorVersion: 1)`
 
 
-## Example Usage 
+## Example Usage 😀
 
 Import the module in your application.
 
@@ -61,7 +61,7 @@ do {
 }
 ```
 
-## Licence 
+## Licence ⚖️
 
 The MIT License (MIT)
 
